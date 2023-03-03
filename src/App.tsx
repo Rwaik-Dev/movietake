@@ -1,8 +1,9 @@
 import React from 'react'
+import Routers from './Services/Routes/Routes'
 
 const App: React.FC = () => {
   return (
-    <div>App</div>
+    <Routers/>
   )
 }
 
